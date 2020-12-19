@@ -4,8 +4,6 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuichi1208/contributions.svg)](http://qiita.com/ryuichi1208)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ryuichi1208/followers.svg)](http://qiita.com/ryuichi1208)
 
-[![](https://raw.githubusercontent.com/ryuichi1208/github-profile-summary-cards-example/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi1208&hide=html)
 ![ryuichi1208's github stats](https://github-readme-stats.vercel.app/api?username=ryuichi1208&show_icons=true&count_private=true&line_height=40)
 
