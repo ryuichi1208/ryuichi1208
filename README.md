@@ -1,5 +1,2 @@
-![](https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/solarized_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi1208&hide=html)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=ryuichi1208&show_icons=true&count_private=true&line_height=40)
