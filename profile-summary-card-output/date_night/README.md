@@ -45,16 +45,6 @@
 
 ---
 
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/date_night/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
